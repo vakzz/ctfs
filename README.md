@@ -4,4 +4,6 @@ Place to hold writeups
 
 ## [AceBear 2018](https://github.com/vakzz/ctfs/blob/master/AceBear2018)
 
-* [encodr](https://github.com/vakzz/ctfs/blob/master/AceBear2018/encodr/solv.py)
+## [Blaze 2018](https://github.com/vakzz/ctfs/blob/master/Blaze2018)
+
+## [Google 2018](https://github.com/vakzz/ctfs/blob/master/Google2018)
