@@ -9,3 +9,5 @@ Place to hold writeups
 ## [Google 2018](https://github.com/vakzz/ctfs/blob/master/Google2018)
 
 ## [CSAW 2018 Quals](https://github.com/vakzz/ctfs/blob/master/CSAW2018)
+
+## [Seccon 2018 Quals](https://github.com/vakzz/ctfs/blob/master/Seccon2018)
